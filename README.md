@@ -7,3 +7,7 @@ C'une application mobile pour la gestion d’une liste de tâches :
 * Tâches avec date et heure
 
 <img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%201.PNG" >
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%202.PNG" >
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%203.PNG" >
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%204.PNG" >
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%205.PNG" >
