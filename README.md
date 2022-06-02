@@ -6,8 +6,8 @@ C'une application mobile pour la gestion d’une liste de tâches :
 * Utilisation d'une méthode de gestion des états : Provider.
 * Tâches avec date et heure
 
-<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%201.PNG"  width="230">
-<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%202.PNG" >
-<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%203.PNG" >
-<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%204.PNG" >
-<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%205.PNG" >
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%201.PNG" width="250">
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%202.PNG" width="250">
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%203.PNG" width="250">
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%204.PNG" width="250">
+<img src="https://github.com/Zaghdoudii/ToDo-Application_Mobile/blob/master/Captures/Capture%205.PNG" width="250">
